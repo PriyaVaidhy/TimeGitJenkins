@@ -64,7 +64,7 @@ public class Time
 	
 	
 	public static void main(String[] args) {
-		int totalSeconds = getTotalSeconds("10:10:10");
+		int totalSeconds = getTotalSeconds("10:10:20");
 		System.out.println("Total Seconds = " +totalSeconds);
 		}
 	
